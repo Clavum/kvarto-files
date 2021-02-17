@@ -4,3 +4,4 @@ Kvarto is a 1 vs 1 game app where players compete to place four pieces in a row 
 
 ### Main screen
 ![Profile tab](Screenshots/Screenshot_20210217-154802.png =432x912)
+<img src="Screenshots/Screenshot_20210217-154802.png" width="432">
